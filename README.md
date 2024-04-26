@@ -1,6 +1,6 @@
 # Alert
 An alert for React
 
-More, check on [https://yed.app](https://yed.app)
+More, check on [https://yeci.org](https://yeci.org)
 
 
