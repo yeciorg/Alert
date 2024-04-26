@@ -7,8 +7,8 @@ const Alert = ({ alertMessage, alertProps }) => {
   const { background = '#ffffff', padding = '20px', borderRadius = '8px', textAlign = 'center' } = alertProps || {};
 
   return (
-    <div className="yed-alert-overlay">
-      <div className="yed-alert-view" style={{
+    <div className="yeci-alert-overlay">
+      <div className="yeci-alert-view" style={{
         background: `${background}`,
         padding: `${padding}`,
         borderRadius: `${borderRadius}`,
